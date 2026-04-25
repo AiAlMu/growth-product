@@ -1,0 +1,61 @@
+# Market Research — AI Niches Comparison Table
+
+*Condensed from market_research_trends.md | April 2026 | Tier 1 audience (US, UK, CA, AU, Western Europe)*
+
+---
+
+| #   | Niche                                  | Category           | Audience Size | Income Potential (freelance/month)              | Market Size / Evidence                                                                              | JobEscape Fit                                                    | Competitive Gap                                                | Genescape Tie-in          | Priority      |
+| --- | -------------------------------------- | ------------------ | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------- | ------------- |
+| 1   | **AI Agents for Non-Technical Users**  | Emerging           | Very Large    | $2K–$10K/mo + $200–$1K/mo maintenance           | $8.29B market (2025), projected $218.6B by 2034, 61% CAGR                                           | Very High — extends Automation Specialist track                  | Large — no consumer-facing course exists                       | ❌                         | **1**         |
+| 2   | **Faceless YouTube (AI-Automated)**    | Video & Content    | Very Large    | $500–$10K/mo                                    | 38% of all new creator monetization ventures; #1 side hustle in 6 US states                         | Very High — extends AI Influencer track                          | Medium — some Udemy courses but no mobile-first full stack     | ✅ AI visuals, B-roll      | **2**         |
+| 3   | **AI Video Ads for Brands**            | Video & Content    | Large         | $200–$2K per ad; $5K–$20K/mo agency             | Coca-Cola, Popeyes using AI video ads; Runway/Kling/Veo commercially viable                         | High — Genescape + ElevenLabs + n8n delivery                     | Large — no structured "AI Video Ads Agency" course exists      | ✅ Image/video generation  | **3**         |
+| 4   | **AI UGC for Brands**                  | Video & Content    | Large         | $50–$500/video; $1K–$5K/mo retainer             | $7.6B UGC market (2025, +69% YoY); 93% creator surge; 4,200+ Upwork jobs                            | Very High — ties into Genescape, AI Influencer track             | Large — almost no structured course exists                     | ✅ Avatar video generation | **4**         |
+| 5   | **Vibe Coding / No-Code App Building** | Vibe Coding        | Large         | $100–$300/hr; $2K–$50K/mo (micro-SaaS)          | Lovable: $200M ARR; Cursor: $2B ARR; 520% non-tech user growth; $4.7B market in 2026                | High — complements Master the Claude                             | Large — nothing teaching Lovable/Bolt to non-technical earners | ⚠️ UI prototyping assets  | **5**         |
+| 6   | **AI Etsy / Print-on-Demand**          | E-Commerce         | Very Large    | $500–$5K/mo                                     | Top-searched monetization on Reddit/YouTube; AI tools lowering barrier                              | Very High — Genescape is direct enabler                          | Medium — no Genescape-to-Etsy pipeline course                  | ✅ Design generation       | **6**         |
+| 7   | **AI Avatar / Spokesperson Videos**    | Video & Content    | Large         | $500–$5K/mo; $10K+/mo agency                    | HeyGen: $100M ARR; Synthesia: $4B valuation; $50–$150/hr on Upwork                                  | Very High — Genescape avatar + video                             | Medium                                                         | ✅ Avatar creation         | **7**         |
+| 8   | **AI Local Business Marketing Agency** | Freelance Services | Large         | $3K–$15K/mo (5–10 clients)                      | AI agencies at 70%+ gross margins; $0–$100K/year in 12 months proven                                | High — n8n + Genescape + social management                       | Medium                                                         | ✅ Content creation        | **8**         |
+| 9   | **AI Job Applications + LinkedIn**     | Freelance Services | Large         | $200–$1.5K per client; $1K–$10K/mo ghostwriting | Job Hunter track already exists; Jobright/Teal growing; 109% Upwork AI demand                       | Very High — direct Job Hunter extension                          | Low — market exists but JobEscape already has base             | ❌                         | **9**         |
+| 10  | **AI Social Media Management**         | Freelance Services | Large         | $500–$7K/mo; $2K–$15K/mo (4–10 clients)         | Global freelance market >$500B; AI reduces production time 60–80%                                   | High — n8n + Genescape + scheduling tools                        | Low — established category                                     | ✅ Content creation        | **10**        |
+| 11  | **AI Dating Profile Optimization**     | Emerging / Niche   | Medium        | $50–$500/profile; $25–$150 on Fiverr            | 26% of singles use AI (+333% YoY); 300K+ users at YourMove AI                                       | Medium — bolt-on to Job Hunter ("AI Personal Brand")             | Large — no structured course                                   | ❌                         | **11**        |
+| 12  | **AI Copywriting & SEO Writing**       | Freelance Services | Very Large    | $2K–$10K/mo (10–15 clients)                     | 109% Upwork AI demand; $110K–$170K/yr for skilled hybrid writers                                    | Medium — mini-track potential                                    | Low — very saturated                                           | ❌                         | **12**        |
+| 13  | **AI for Amazon FBA**                  | E-Commerce         | Large         | $2K–$8K/mo                                      | Amazon's own AI listing tools; 15–35% listing improvement; hundreds of Fiverr gigs                  | Medium — "Sell on Amazon with AI" mini-track                     | Medium                                                         | ❌                         | **13**        |
+| 14  | **AI Podcast Creation**                | Video & Content    | Medium        | $500–$3K/mo (white-label); $15–$50 CPM          | ElevenLabs: $100M revenue, $6.6B valuation; NotebookLM adopted by tens of thousands of institutions | Medium — module inside AI Influencer                             | Medium                                                         | ⚠️ Episode artwork        | **14**        |
+| 15  | **AI Real Estate Virtual Staging**     | E-Commerce / Niche | Medium        | $1K–$5K/mo; $10–$50 per staged photo            | AI staging: $0.03–$0.23/photo vs. hundreds traditional; properties sell 73% faster                  | Medium — "AI for Real Estate Agents" mini-track                  | Large — niche but almost no course exists                      | ✅ Virtual staging images  | **15**        |
+| 16  | **AI Fitness & Wellness Content**      | Emerging / Niche   | Large         | £100–£150/hr coaching; $1K–$10K/mo courses      | AI trainer market +32.7%/yr; digital fitness >$150B by 2029; 78% of trainers use AI                 | Medium — "AI Wellness Content Creator"                           | Medium                                                         | ✅ Workout visual assets   | **16**        |
+| 17  | **AI Data Analysis Consulting**        | Freelance Services | Medium        | $100–$200+/hr; $10K+/mo experienced             | AI consulting market: $8.75B → $11.07B in 1 year (26.2% CAGR)                                       | Medium — ties into Master the Claude                             | Low                                                            | ❌                         | **17**        |
+| 18  | **AI Legal Document Templates**        | Emerging / Niche   | Medium        | $50–$300/doc; $500–$5K/mo template shop         | Legal AI market: $2.1B → $10.82B by 2030 (28.3% CAGR)                                               | Low-Medium — legally sensitive; Etsy/Gumroad template angle only | Large                                                          | ❌                         | **18**        |
+| 19  | **AI Personal Finance Education**      | Emerging / Niche   | Large         | $150–$500/mo coaching; $20–$50 YouTube CPM      | 55% of consumers use AI for finances; 77% Gen Z adoption                                            | Medium — avoid investment advice; budget/expense angle only      | Medium                                                         | ❌                         | **19**        |
+| 20  | **Replit for Beginners**               | Vibe Coding        | Large         | $50–$500/project                                | 50M+ users; 40% students; 45%/mo subscriber growth                                                  | Medium-High — module inside Vibe Coding track                    | Medium                                                         | ❌                         | *(sub-track)* |
+| 21  | **AI Voiceover Freelancing**           | Video & Content    | Medium        | $300–$3K/mo                                     | ElevenLabs 5,000+ voices; top Fiverr/Upwork category                                                | Medium — module in AI Music/Voice track                          | Medium — competitive                                           | ⚠️ Audio integration      | *(module)*    |
+| 22  | **AI Chatbot Setup for SMBs**          | Freelance Services | Medium        | $1.5K–$8K/mo (3–8 clients)                      | SMB chatbot adoption +67% (2023–2025); $500–$5K per bot                                             | Medium — "SMB Chatbot Agency" expansion of Automation track      | Medium                                                         | ❌                         | *(extension)* |
+| 23  | **AI for Shopify / Dropshipping**      | E-Commerce         | Medium        | $2K–$15K/mo                                     | AI tools in Shopify's native ecosystem; 2–3x faster launch times                                    | Medium — module; Genescape for product images                    | Medium                                                         | ✅ Product photos          | *(module)*    |
+| 24  | **AI Course Creation (Meta)**          | AI Education       | Large         | $2K–$30K/mo                                     | AI tutors market $2.1–3.55B; Kajabi/Teachable creators earning $50K+/mo                             | Very High — teach what JobEscape itself does                     | Low                                                            | ✅ Course assets           | *(meta)*      |
+
+---
+
+## Quick Reference: Top 5 Recommended Tracks
+
+| Track | Based On | Why Now |
+|---|---|---|
+| **A — AI Agents Mastery** | Niche #1 | $8.29B market, 61% CAGR, #1 breakout search term 2025, extends existing automation track |
+| **B — Faceless YouTube with AI** | Niche #2 | 38% of new creator monetization; consistent #1 AI side hustle discussed online |
+| **C — AI Video Ads Agency** | Niche #3 | Large brands already using AI video; no structured course; high B2B income ceiling |
+| **D — AI Etsy & Digital Products** | Niche #6 | Most natural Genescape extension into direct income; very large audience |
+| **E — Vibe Coding for Freelancers** | Niche #5 | Fastest-growing segment in tech; $100–$300/hr rates; nearly zero competition in non-technical education |
+
+---
+
+## Genescape-Native Niches (Highest Integration Potential)
+
+| Niche | How Genescape Plugs In |
+|---|---|
+| Faceless YouTube | AI-generated visuals, B-roll, thumbnails |
+| AI Video Ads | Full video generation (Runway/Kling-equivalent) |
+| AI UGC | Avatar video generation, product visuals |
+| AI Etsy / POD | Design generation → direct to Etsy listing |
+| AI Avatar Video | Avatar creation + lip sync |
+| AI Local Business Marketing | Social content creation |
+| AI Real Estate Staging | Virtual staging images |
+| AI Shopify / Dropshipping | Product photography |
+
+*Source: market_research_trends.md — April 2026*
